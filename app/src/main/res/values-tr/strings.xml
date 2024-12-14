@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Kahve Dükkanı</string>
+
+
+    <string name="onboarding_title">Kahveye Aşık Olun, Keyfi Hissedin!</string>
+    <string name="onboarding_subtitle">Her fincanın bir keyif olduğu, sıcak kahve köşemize hoş geldiniz.</string>
+    <string name="onboarding_button_start">Başla</string>
+
+
+    <string name="coffee_cup_description">Kahve Fincanı</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">CoffeeShop</string>
+
+
+    <string name="onboarding_title">Fall in Love with Coffee, Feel the Bliss!</string>
+    <string name="onboarding_subtitle">Welcome to our cozy coffee corner, where every cup is a delight.</string>
+    <string name="onboarding_button_start">Start</string>
+
+
+    <string name="coffee_cup_description">Coffee Cup</string>
+</resources>
